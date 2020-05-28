@@ -1,4 +1,3 @@
-<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
 
 ### DSI7 Capstone Project
 ---
@@ -143,4 +142,4 @@ Using machine learning models on genetic data has the potential to improve our u
 
 
 
-#### Special Thank you to the best instructors Irfan, Husain, Yazeid, and Amjad. I will miss you!!
+### Special Thank you to the best instructors Irfan, Husain, Yazeid, and Amjad. I appreciate all of your help and efforts
