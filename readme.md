@@ -1,5 +1,5 @@
-
-### DSI7 Capstone Project
+## General Assembly Data Science Immersive Course
+### Capstone Project
 ---
 # Machine Learning Model for Breast Cancer Survival Prediction using Gene Expression Profiles 
 #### Raghad Alharbi
